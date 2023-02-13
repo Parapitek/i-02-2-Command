@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace i_02_2_Command
 {
-    public class Console.WriteLine("Освещение гаражной двери включено");
+    public class GarageDoor
     {
         string location;
 
